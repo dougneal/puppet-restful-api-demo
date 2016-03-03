@@ -1,0 +1,44 @@
+{
+  "muppets": [
+    {
+      "id": 1,
+      "name": "Kermit"
+    },
+    {
+      "id": 2,
+      "name": "Miss Piggy"
+    },
+    {
+      "id": 3,
+      "name": "Fozzie Bear"
+    },
+    {
+      "id": 4,
+      "name": "Gonzo"
+    },
+    {
+      "id": 5,
+      "name": "Rowlf the Dog"
+    },
+    {
+      "id": 6,
+      "name": "Scooter"
+    },
+    {
+      "id": 7,
+      "name": "Pepe the King Prawn"
+    },
+    {
+      "id": 8,
+      "name": "Rizzo the Rat"
+    },
+    {
+      "id": 9,
+      "name": "Animal"
+    },
+    {
+      "id": 10,
+      "name": "Walter"
+    }
+  ]
+}
