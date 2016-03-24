@@ -1,0 +1,4 @@
+entity { 'Kermit':
+  ensure => present,
+}
+
