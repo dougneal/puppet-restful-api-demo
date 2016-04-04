@@ -28,6 +28,12 @@ supervisor::program { 'muppet-server' :
   require        => [
     Package['nodejs-legacy'],
     Package['json-server'],
-  ]
+  ],
 }
 
+file { '/etc/puppetlabs/puppet/restful-api.json':
+  owner   => 'root',
+  group   => 'root',
+  mode    => '0644',
+  content => '{ "url": "http://localhost:3000/muppets" }',
+}
